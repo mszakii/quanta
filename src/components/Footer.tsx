@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-10 border-b border-quanta-white/10 pb-12 mb-10">
           <div className="flex flex-col md:flex-row items-center md:items-start gap-6 text-center md:text-left">
             <img 
-              src="https://quanta-research.vercel.app/Quanta.png" 
+              src="https://lh3.googleusercontent.com/a/ACg8ocIDP6uFs8iVttTpqI39QN_v92h5YCxwgiRymDY2gSG1_FRw2iI=s317-c-no" 
               alt="Quanta Logo" 
               className="w-16 h-16 object-contain"
               referrerPolicy="no-referrer"

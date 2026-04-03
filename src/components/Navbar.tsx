@@ -27,7 +27,7 @@ export default function Navbar() {
       }`}
     >
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
-        <a href="#" className="flex items-center gap-2">
+        <a href="#" className="flex items-center gap-3">
           <span className={`font-logo font-bold text-2xl tracking-tight ${isScrolled ? 'text-quanta-navy' : 'text-quanta-white'}`}>
             Quanta
           </span>
