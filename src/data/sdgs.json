@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "name": "Good Health & Well-Being",
+    "description": "Nanotechnology is transforming medicine — from targeted drug delivery to nanoscale diagnostics. We explore how nanomaterials can contribute to better healthcare outcomes.",
+    "svg": "https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Quality Education",
+    "description": "Quanta itself is a response to SDG 4. We are building the research culture and scientific education that universities haven't yet provided — giving students real skills, real publications, and real mentorship.",
+    "svg": "https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-04.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Affordable & Clean Energy",
+    "description": "Nanomaterials are at the heart of next-generation solar cells and battery technologies. We study how nanotechnology can accelerate the transition to clean, affordable energy.",
+    "svg": "https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-07.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Industry, Innovation & Infrastructure",
+    "description": "Scientific innovation starts with research. Quanta contributes to building a culture of innovation in Egypt and the region — one paper, one idea, one student at a time.",
+    "svg": "https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-09.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Climate Action",
+    "description": "From nanoscale catalysts for CO₂ reduction to materials for carbon capture, nanotechnology offers powerful tools in the fight against climate change. We take that seriously.",
+    "svg": "https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-13.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Partnerships for the Goals",
+    "description": "Quanta is built on collaboration — between universities, between students and professors, and eventually between Egyptian researchers and the global scientific community.",
+    "svg": "https://sdgs.un.org/sites/default/files/goals/E_SDG_Icons-17.jpg"
+  }
+]
