@@ -12,27 +12,27 @@
     "name": "Ahmed M. Abdel-Hakim",
     "university": "Cairo University",
     "role": "Co-Founder & Operations Lead",
-    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Operations"
+    "avatar": "https://api.dicebear.com/9.x/glass/svg?seed=Adrian"
   },
   {
     "id": "3",
     "name": "Omar Mohamed",
     "university": "Cairo University",
     "role": "Co-Founder & Research Associate",
-    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Research"
+    "avatar": "https://api.dicebear.com/9.x/glass/svg?seed=Brian"
   },
   {
     "id": "4",
     "name": "Ahmed Sobhy",
     "university": "Cairo University",
     "role": "Co-Founder & Scientific Writer",
-    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Writer1"
+    "avatar": "https://api.dicebear.com/9.x/glass/svg?seed=Leah"
   },
   {
     "id": "5",
     "name": "Mahenour",
     "university": "Ain Shams University",
     "role": "Co-Founder & Scientific Writer",
-    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Writer2"
+    "avatar": "https://api.dicebear.com/9.x/glass/svg?seed=Sara"
   }
 ]
