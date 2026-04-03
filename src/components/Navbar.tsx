@@ -47,7 +47,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:contact@quantaresearch.org"
+            href="mailto:quanta.nano.research@gmail.com"
             className={`px-5 py-2 rounded-full text-sm font-medium transition-colors ${
               isScrolled
                 ? 'bg-quanta-navy text-quanta-white hover:bg-quanta-navy/90'
@@ -85,7 +85,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="mailto:contact@quantaresearch.org"
+            href="mailto:quanta.nano.research@gmail.com"
             className="mt-2 text-center bg-quanta-navy text-quanta-white px-5 py-3 rounded-full font-medium"
           >
             Contact Us

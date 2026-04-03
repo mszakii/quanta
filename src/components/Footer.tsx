@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-10 border-b border-quanta-white/10 pb-12 mb-10">
           <div className="flex flex-col md:flex-row items-center md:items-start gap-6 text-center md:text-left">
             <img 
-              src="https://mszaki.vercel.app/quanta-logo.png" 
+              src="/images/Quanta.png" 
               alt="Quanta Logo" 
               className="w-16 h-16 object-contain"
               referrerPolicy="no-referrer"
@@ -19,7 +19,7 @@ export default function Footer() {
           </div>
           <div className="w-full md:w-auto">
             <a 
-              href="mailto:contact@quantaresearch.org" 
+              href="mailto:quanta.nano.research@gmail.com" 
               className="block md:inline-block text-center bg-quanta-violet hover:bg-quanta-violet/90 text-quanta-white px-10 py-4 rounded-full font-bold transition-all hover:scale-105 active:scale-95 shadow-lg shadow-quanta-violet/20"
             >
               Get in Touch
