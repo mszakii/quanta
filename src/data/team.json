@@ -4,35 +4,35 @@
     "name": "Mohamed Elsayed",
     "university": "Cairo University",
     "role": "Founder & CEO",
-    "avatar": "https://mszaki.vercel.app/mohamed.png",
-    "website": "https://mszaki.vercel.app"
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Founder",
+    "website": "https://mszaki.vercel.app/mohamed.png"
   },
   {
     "id": "2",
     "name": "Ahmed M. Abdel-Hakim",
     "university": "Cairo University",
     "role": "Co-Founder & Operations Lead",
-    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Kingston"
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Operations"
   },
   {
     "id": "3",
     "name": "Omar Mohamed",
     "university": "Cairo University",
     "role": "Co-Founder & Research Associate",
-    "avatar": "https://api.dicebear.com/7.x/notionists/svg?seed=Jocelyn"
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Research"
   },
   {
     "id": "4",
     "name": "Ahmed Sobhy",
     "university": "Cairo University",
     "role": "Co-Founder & Scientific Writer",
-    "avatar": "https://api.dicebear.com/7.x/notionists/svg?seed=Easton"
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Writer1"
   },
   {
     "id": "5",
     "name": "Mahenour",
     "university": "Ain Shams University",
     "role": "Co-Founder & Scientific Writer",
-    "avatar": "https://api.dicebear.com/7.x/notionists/svg?seed=Alexander"
+    "avatar": "https://api.dicebear.com/9.x/notionists/svg?seed=Writer2"
   }
 ]
